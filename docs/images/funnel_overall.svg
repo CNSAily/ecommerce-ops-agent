@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="241.167pt" viewBox="0 0 460.8 241.167" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-19T14:01:30.778548</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 241.167 
+L 460.8 241.167 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 233.967 
+L 453.6 233.967 
+L 453.6 23.295 
+L 7.2 23.295 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 7.2 224.391 
+L 453.6 224.391 
+L 453.6 194.718887 
+L 7.2 194.718887 
+z
+" clip-path="url(#p80e5dc2670)" style="fill: #4c78a8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 18.673627 170.441704 
+L 442.126373 170.441704 
+L 442.126373 140.769592 
+L 18.673627 140.769592 
+z
+" clip-path="url(#p80e5dc2670)" style="fill: #72b7b2"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 43.071827 116.492408 
+L 417.728173 116.492408 
+L 417.728173 86.820296 
+L 43.071827 86.820296 
+z
+" clip-path="url(#p80e5dc2670)" style="fill: #f58518"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 75.137714 62.543113 
+L 385.662286 62.543113 
+L 385.662286 32.871 
+L 75.137714 32.871 
+z
+" clip-path="url(#p80e5dc2670)" style="fill: #54a24b"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m3b1cdb66f5" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3b1cdb66f5" x="7.2" y="209.554944" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m3b1cdb66f5" x="7.2" y="155.605648" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m3b1cdb66f5" x="7.2" y="101.656352" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3b1cdb66f5" x="7.2" y="47.707056" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(221.4 207.350823)">浏览</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(196.141641 216.979241)">19,998 (100.0%)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(221.4 153.388871)">加购</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(198.780469 163.017289)">18,970 (94.9%)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(221.4 99.474731)">下单</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(198.780469 109.103149)">16,784 (88.5%)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(221.4 45.502935)">支付</text>
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei', sans-serif; fill: #ffffff" transform="translate(198.780469 55.131353)">13,911 (82.9%)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="230.4" y="17.295" transform="rotate(-0 230.4 17.295)">转化漏斗（去重用户数）</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p80e5dc2670">
+   <rect x="7.2" y="23.295" width="446.4" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>

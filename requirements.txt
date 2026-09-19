@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+Faker>=18.0
+matplotlib>=3.7
+python-dotenv>=1.0
+openai>=1.0
+scipy>=1.10
+lifetimes>=0.11

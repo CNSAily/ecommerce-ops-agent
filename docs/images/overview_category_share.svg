@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="247.187234pt" height="229.9515pt" viewBox="0 0 247.187234 229.9515" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-19T14:20:18.420616</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 229.9515 
+L 247.187234 229.9515 
+L 247.187234 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 133.028841 43.1259 
+C 125.259773 43.1259 117.532146 44.259979 110.090674 46.492225 
+C 102.649202 48.72447 95.573273 52.031068 89.086963 56.307306 
+L 107.542552 84.301227 
+C 111.304612 81.821009 115.40865 79.903183 119.724704 78.60848 
+C 124.040758 77.313778 128.522782 76.656012 133.028841 76.656012 
+z
+" style="fill: #4c78a8; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 89.086963 56.307306 
+C 83.281387 60.134755 78.000684 64.704374 73.379068 69.900022 
+C 68.757452 75.095669 64.834411 80.872952 61.709654 87.085035 
+L 91.663713 102.15231 
+C 93.476072 98.549302 95.751435 95.198478 98.431973 92.185003 
+C 101.11251 89.171527 104.175318 86.521148 107.542552 84.301227 
+z
+" style="fill: #f58518; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 61.709654 87.085035 
+C 58.681851 93.104372 56.428239 99.482886 55.002622 106.068296 
+C 53.577005 112.653706 52.990818 119.393186 53.258057 126.125837 
+L 86.761787 124.795975 
+C 86.606788 120.891038 86.946776 116.982139 87.773634 113.162602 
+C 88.600492 109.343064 89.907587 105.643526 91.663713 102.15231 
+z
+" style="fill: #54a24b; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 53.258057 126.125837 
+C 53.501914 132.269413 54.454681 138.364303 56.097396 144.289206 
+C 57.740111 150.214109 60.061803 155.929456 63.016266 161.3215 
+L 92.421548 145.20946 
+C 90.707959 142.082075 89.361377 138.767173 88.408603 135.330729 
+C 87.455828 131.894286 86.903223 128.359249 86.761787 124.795975 
+z
+" style="fill: #e45756; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 63.016266 161.3215 
+C 65.744305 166.300307 68.995665 170.973943 72.715128 175.263035 
+C 76.434592 179.552126 80.600983 183.432255 85.143544 186.837524 
+L 105.255369 160.008754 
+C 102.620683 158.033698 100.204177 155.783223 98.046888 153.29555 
+C 95.889599 150.807877 94.00381 148.097168 92.421548 145.20946 
+z
+" style="fill: #72b7b2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 85.143544 186.837524 
+C 89.014782 189.739546 93.141829 192.283653 97.473709 194.438422 
+C 101.80559 196.593191 106.324397 198.349715 110.974318 199.686299 
+L 120.237218 167.461043 
+C 117.540263 166.685825 114.919356 165.667041 112.406865 164.417275 
+C 109.894374 163.167509 107.500687 161.691927 105.255369 160.008754 
+z
+" style="fill: #b279a2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 110.974318 199.686299 
+C 121.954159 202.842369 133.484622 203.605105 144.784518 201.922832 
+C 156.084415 200.240558 166.892662 196.152144 176.477002 189.934577 
+C 186.061343 183.717011 194.200331 175.513951 200.342551 165.881151 
+C 206.484772 156.248351 210.48831 145.408378 212.081926 134.095637 
+C 213.675541 122.782897 212.822414 111.25877 209.580344 100.304013 
+C 206.338274 89.349257 200.782169 79.216981 193.288453 70.593644 
+C 185.794737 61.970307 176.536554 55.055153 166.141142 50.31668 
+C 155.74573 45.578208 144.453276 43.1259 133.028841 43.1259 
+L 133.028841 76.656012 
+C 139.655013 76.656012 146.204637 78.078351 152.233976 80.826665 
+C 158.263315 83.574979 163.633061 87.585768 167.979416 92.587304 
+C 172.325771 97.588839 175.548312 103.465559 177.428713 109.819318 
+C 179.309114 116.173077 179.803927 122.85707 178.87963 129.41846 
+C 177.955333 135.979849 175.633281 142.267034 172.070793 147.854058 
+C 168.508305 153.441081 163.787692 158.198857 158.228775 161.805045 
+C 152.669857 165.411233 146.401074 167.782514 139.847134 168.758232 
+C 133.293194 169.733951 126.605526 169.291564 120.237218 167.461043 
+z
+" style="fill: #b7c4d2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: end" x="107.796857" y="41.794814" transform="rotate(-0 107.796857 41.794814)">健康美容</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: end" x="67.41409" y="67.519172" transform="rotate(-0 67.41409 67.519172)">手表礼品</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: end" x="47.2" y="107.294117" transform="rotate(-0 47.2 107.294117)">床品卫浴</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: end" x="48.404251" y="149.327743" transform="rotate(-0 48.404251 149.327743)">运动休闲</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: end" x="66.683757" y="183.379423" transform="rotate(-0 66.683757 183.379423)">电脑配件</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: end" x="93.918196" y="204.540318" transform="rotate(-0 93.918196 204.540318)">家具装饰</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: start" x="219.987234" y="138.099974" transform="rotate(-0 219.987234 138.099974)">其他</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="119.265941" y="79.872104" transform="rotate(-0 119.265941 79.872104)">9.3%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="97.238977" y="93.916782" transform="rotate(-0 97.238977 93.916782)">8.3%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="86.21311" y="115.617746" transform="rotate(-0 86.21311 115.617746)">8.0%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="86.869974" y="138.550292" transform="rotate(-0 86.869974 138.550292)">7.3%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="96.840614" y="157.134589" transform="rotate(-0 96.840614 157.134589)">6.8%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="111.695762" y="168.639822" transform="rotate(-0 111.695762 168.639822)">5.8%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="180.460692" y="132.434151" transform="rotate(-0 180.460692 132.434151)">54.5%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="133.028841" y="17.1675" transform="rotate(-0 133.028841 17.1675)">品类 GMV 占比（Top 6）</text>
+   </g>
+  </g>
+ </g>
+</svg>
