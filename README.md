@@ -21,7 +21,7 @@
 
 ```bash
 # 1. 克隆
-git clone https://github.com/<your-name>/ecommerce-ops-agent.git
+git clone https://github.com/CNSAily/ecommerce-ops-agent.git
 cd ecommerce-ops-agent
 
 # 2. 安装依赖
